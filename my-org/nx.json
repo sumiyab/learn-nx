@@ -1,6 +1,6 @@
 {
   "$schema": "./node_modules/nx/schemas/nx-schema.json",
-  "npmScope": "my-demo",
+  "npmScope": "my-org",
   "tasksRunnerOptions": {
     "default": {
       "runner": "@nrwl/nx-cloud",
@@ -11,7 +11,7 @@
           "test",
           "e2e"
         ],
-        "accessToken": "YjJhNzAyNTYtOWNmZi00MWQwLWI3ZWUtZDJmNWJjMWY2NDIwfHJlYWQtd3JpdGU="
+        "accessToken": "OWM2NWNjNzAtNDlkOS00MDY0LTg5YzktZTg0ZDRlOGJlNDEyfHJlYWQtd3JpdGU="
       }
     }
   },
@@ -35,9 +35,5 @@
       "default"
     ],
     "sharedGlobals": []
-  },
-  "workspaceLayout": {
-    "appsDir": "packages",
-    "libsDir": "packages"
   }
 }
