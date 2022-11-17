@@ -1,5 +1,5 @@
 import styled from '@emotion/styled';
-
+import '@bghoard/shared/ui-tile';
 /* eslint-disable-next-line */
 export interface ReviewFeatureListProps {}
 

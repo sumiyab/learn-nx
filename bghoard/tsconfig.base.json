@@ -26,6 +26,7 @@
       "@bghoard/review/util-formatters": [
         "libs/review/util-formatters/src/index.ts"
       ],
+      "@bghoard/shared/ui-tile": ["libs/shared/ui-tile/src/index.ts"],
       "@bghoard/ui-tile": ["libs/ui-tile/src/index.ts"]
     }
   },
